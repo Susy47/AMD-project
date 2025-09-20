@@ -12,3 +12,5 @@ the considered algorithms and their implementations,
 how the proposed solution scales up with data size,
 a description of the experiments,
 comments and discussion on the experimental results.
+
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/project2-market-basket/blob/main/notebook.ipynb)
