@@ -16,3 +16,5 @@ comments and discussion on the experimental results.
 https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/project2-market-basket/blob/main/notebook.ipynb
 
 https://it.overleaf.com/3467184513dbqvyrzqqznv#bc08eb
+
+dataset: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
